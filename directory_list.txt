@@ -1,0 +1,3 @@
+Directory listing for: /Users/ezequielmacchi_1/Desktop/TestFolder2
+
+[F] testfile.txt (Last Modified: 16-12-2024 13:42:31)
